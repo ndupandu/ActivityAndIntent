@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Activity &amp; Intent</string>
+    <string name="aboutme">
+        <b>Nama :</b>Muhammad Tri Pandu Wiguna.\n
+         <b>Prodi :</b>D3 Teknik Komputer.\n
+        <b>Jurusan :</b>Teknologi Informasi\n
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Thank You\n
+    </string>
+    <string name="prodi">Program ini menawarkan perkuliahan selama 3 tahun (6 semester) di bidang teknologi informasi dengan kompetensi operasi komputer dan jaringan, perawatan perangkat keras dan lunak, perbaikan komputer dan jaringan, dan komputer kontrol.\n\n
+        Calon mahasiswa yang bisa mendaftar program ini adalah lulusan SLTA atau sederajat dari berbagai jurusan khususnya yang memiliki kemampuan dasar komputer yang memadai.\n\n
+        Dalam proses belajar mengajar, mahasiswa mengikuti perkuliahan baik di kelas, laboratorium maupun di dunia industri selama 5 semester termasuk penyelesaian tugas akhir.\n\n
+        Kemudian pada semester 6, mereka mengikuti program magang di perusahaan-perusahaan yang banyak memerlukan keahlian komputer dan jaringan.\n\n
+        Setelah menyelesaikan program ini, lulusan akan menguasai keterampilan teknik dan manajerial tingkat menengah dalam pengoperasian, perawatan dan perbaikan komputer dan jaringan.\n\n
+        Dengan memiliki kompetensi tersebut, lulusan dapat bekerja sebagai wirausahawan dibidang operasi dan perbaikan komputer dan jaringan, atau bekerja sebagai karyawan di perusahaan-perusahaan, perkantoran, dan perbankan.\n\n
+
+
+A. Visi program studi\n\n
+
+Menjadi pusat pendidikandan pengembangan vokasi bidang komputer yang menghasilkan ahli madya berdaya saingdi Asia Tenggara pada tahun 2020.\n\n
+
+B. Misi program studi\n\n
+
+Meningkatkan kualitas sumber daya insani yang berpengetahuan, berkeahlian, dan berbudaya di bidang komputer\n
+Meningkatkan sinergi keahlian bidang komputer dengan bidang\n
+Meningkatkan kegiatan layanan bidang komputer yang bermanfaat bagi masyarakat.\n
+Meningkatkan kualitas dan produktivitas riset bidang komputer yang inovatif\n
+Meningkatkan kualitas dan produktivitas teknologi terapan bidang komputer yang bernilai ekonomis\n
+Membentuk jiwa kemandirian beretika akademik bidang komputer\n
+</string>
+    <string name="polije">
+        Politeknik Negeri Jember (POLIJE), yang sebelumnya bernama Politeknik Pertanian Universitas Jember, didirikan pada tahun 1987 dengan bantuan dana dari Asian Development Bank (ADB) oleh konsultan konsortium ENAREC-Australia/New Zealand, melalui Surat Keputusan Direktorat Jenderal Pendidikan Tinggi Nomor: 43/DIKTI/KEP/1987 tanggal 1 September 1987 tentang Pengangkatan Penanggungjawab Pengembangan Pendidikan Politeknik Pertanian Pada Tahun 1988.\n
+        Selanjutnya, kegiatan pendidikan di Politeknik pun dimulai tahun 1988 melalui Keputusan Direktorat Jenderal Pendidikan Tinggi Nomor: 219/D/T/1988 tanggal 29 Oktober 1988, dengan tiga jurusan, yakni:\n\n
+
+
+Jurusan Budidaya Tanaman Pangan, dengan Program Studi Budidaya Tanaman Pangan.\n
+Jurusan Budidaya Tanaman Perkebunan, dengan Program Studi Budidaya Tanaman Perkebunan.\n
+Jurusan Teknologi Pertanian, dengan Program Studi Teknologi Pangan dan Gizi, Program Studi Mekanisasi dan Bangunan Pertanian, sertax Program Studi Tata Air Pertanian.\n\n
+Pada bulan Januari 1989, 174 mahasiswa berhasil menjadi angkatan pertama, dan pada tanggal 14 Februari 1989, kegiatan belajar mengajar pun resmi dimulai.\n
+        Pada tahun 1997, Politeknik Pertanian Universitas Jember memperoleh kemandirian berdasarkan Keputusan Menteri Pendidikan dan Kebudayaan Nomor: 234/O/1998 tanggal 21 September 1998 dan Surat Keputusan Senat Universitas Jember Nomor: 5919/ PT32.H/E 1997 tanggal 1 Oktober 1997 tentang Kemandirian Politeknik, dan akhirnya berganti nama menjadi Politeknik Pertanian Negeri Jember.\n\n
+
+Pada tahun 2002, Politeknik Pertanian Negeri Jember kembali berganti nama menjadi Politeknik Negeri Jember, sesuai dengan Keputusan Menteri Pendidikan Nasional Nomor: 191/O/2002 tanggal 5 November 2002.\n\n
+    </string>
+</resources>
